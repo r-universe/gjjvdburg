@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gensvm"]
+	path = gensvm
+	url = https://github.com/gjjvdburg/rgensvm
+	shallow = true
+	registered = true
+[submodule "sparsestep"]
+	path = sparsestep
+	url = https://github.com/gjjvdburg/sparsestep
+	shallow = true
+	registered = true

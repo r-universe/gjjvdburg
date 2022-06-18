@@ -1,0 +1,10 @@
+[
+  {
+    "package": "gensvm",
+    "oncran": true
+  },
+  {
+    "package": "sparsestep",
+    "oncran": true
+  }
+]
