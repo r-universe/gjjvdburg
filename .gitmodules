@@ -13,3 +13,8 @@
 	url = https://github.com/gjjvdburg/sparsestep
 	shallow = true
 	registered = true
+[submodule "SyncRNG"]
+	path = SyncRNG
+	url = https://github.com/cran/SyncRNG
+	shallow = true
+	registered = true
