@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "SyncRNG"]
+	path = SyncRNG
+	url = https://github.com/cran/SyncRNG
 [submodule "gensvm"]
 	path = gensvm
 	url = https://github.com/gjjvdburg/rgensvm
 [submodule "sparsestep"]
 	path = sparsestep
 	url = https://github.com/gjjvdburg/sparsestep
-[submodule "SyncRNG"]
-	path = SyncRNG
-	url = https://github.com/cran/SyncRNG
